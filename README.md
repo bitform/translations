@@ -1,5 +1,5 @@
-## Translations
+## Tranduções
 
-The content of this repo has been moved to the Form Tools Core as part of the 3.0.0 rewrite. 
+Repositório para as traduções do Core do BitForm. 
 
-This repo will be closed in the coming weeks.
+
